@@ -255,8 +255,8 @@ Open Android Studio. Go to File > New > Project From Version Control. Copy the l
     
 ## [Contributors](#Contributors)
 
-- [Mausam Singh](https://github.com/Kingbond470)
 - [Murali Krishna](https://github.com/MuraliKrishnaSundara)
+- [Mausam Singh](https://github.com/Kingbond470)
 - [Prabhakar Yadav](https://github.com/PrabhakarYdv)
 
     
