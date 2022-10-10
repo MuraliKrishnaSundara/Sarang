@@ -54,6 +54,7 @@ class MainActivity : AppCompatActivity() {
                     .commit()
             }
         }
+
         bottomNavBar.setOnNavigationItemSelectedListener {
             when (it.itemId) {
                 R.id.page_1 -> setCurrentFragment(HomeFragment())

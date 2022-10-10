@@ -5,4 +5,3 @@ import com.example.sarang.view.model.PopularArtists
 interface ClickListener {
     fun onClick(position: Int, result: Result)
 }
-
