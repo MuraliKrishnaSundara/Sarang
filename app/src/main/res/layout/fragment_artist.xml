@@ -70,28 +70,26 @@
             android:layout_height="?attr/actionBarSize">
 
             <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_centerVertical="true"
                 android:layout_marginLeft="10dp"
                 android:backgroundTint="#6D1E1E1E"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
                 app:cardCornerRadius="100dp">
 
                 <ImageView
-                    android:layout_margin="5dp"
                     android:id="@+id/ivArtistBack"
                     android:layout_width="20dp"
                     android:layout_height="20dp"
                     android:layout_alignParentStart="true"
+                    android:layout_margin="5dp"
                     android:src="@drawable/ic_back" />
 
             </androidx.cardview.widget.CardView>
 
-
         </RelativeLayout>
 
     </FrameLayout>
-
 
 </RelativeLayout>
 
